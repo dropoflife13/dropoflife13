@@ -27,7 +27,7 @@ When I'm not writing code, I'm studying system design, hacking on side projects,
       <p><b>The Problem:</b> AI models hallucinate and ignore architectural constraints.</p>
       <p><b>The Solution:</b> A 3D WebGL knowledge engine that enforces software invariants using a 7-agent governance suite.</p>
       <p>🚀 <a href="https://cortex-gamma-ten.vercel.app/">Live Demo</a> | 💻 <a href="https://github.com/dropoflife13/Portfolio">Source Code</a></p>
-      <img src="https://raw.githubusercontent.com/dropoflife13/Portfolio/main/src/assets/dugtong.png" width="100%" alt="Cortex Preview" style="border-radius: 8px;"/>
+      <img src="https://raw.githubusercontent.com/dropoflife13/Portfolio/main/src/assets/cortex.png" width="100%" alt="Cortex Preview" style="border-radius: 8px;"/>
     </td>
     <td width="50%" valign="top">
       <h3>🛒 Agrivet Retail System</h3>
