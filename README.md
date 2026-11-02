@@ -1,39 +1,66 @@
-# Hi, I'm Neil Mar De Asis 👋
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Developer;Systems+Architect;UI%2FUX+Enthusiast&font=Fira+Code&center=true&width=440&height=45&color=00FFFF&vCenter=true&size=22" />
+  
+  <p align="center">
+    <a href="YOUR_PORTFOLIO_LINK"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+    <a href="https://www.linkedin.com/in/neil-mar-de-asis-972553377/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+    <a href="mailto:neilasis43@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  </p>
+</div>
 
-### Full-Stack Developer & Systems Architect
-I build high-performance web applications, Agentic AI systems, and 3D data visualizations. I care deeply about clean architecture, human-centered design, and systems that hold up under real use.
+---
+
+### 👋 About Me
+
+I build high-performance web applications, Agentic AI systems, and 3D data visualizations. I care deeply about clean architecture, human-centered design, and systems that hold up under real use. 
+
+When I'm not writing code, I'm studying system design, hacking on side projects, or exploring the intersection of AI and UI.
 
 ---
 
 ### 🚀 Featured Projects
 
-**🧠 [Cortex: The Agentic AI Operating System](https://cortex-gamma-ten.vercel.app/)**
-*   **The Problem:** AI models hallucinate and ignore architectural constraints.
-*   **The Solution:** Built a 3D WebGL knowledge engine that uses a 7-agent governance suite to enforce software engineering invariants.
-*   **Tech:** Next.js 15, React Three Fiber, Gemini API, Semantic Vector RAG, TypeScript.
-
-**🛒 [Agrivet Sales & Inventory System](YOUR_LINK_HERE)**
-*   **The Problem:** Local retail stores struggle with inventory drift and manual tracking.
-*   **The Solution:** A multi-tenant, offline-first inventory system with atomic ACID transactions, FEFO expiration monitoring, and strict RBAC.
-*   **Tech:** Next.js, MongoDB, Tailwind CSS, Zod, Recharts.
-
-**🎓 [Hawak Kamay: Scholar Duty Tracker](YOUR_LINK_HERE)**
-*   **The Problem:** Manual tracking of student scholarship hours is inefficient and prone to errors.
-*   **The Solution:** A secure portal with append-only audit logs, Postgres Row-Level Security (RLS), and strict submitter-approver workflows.
-*   **Tech:** Next.js, Supabase (PostgreSQL), TypeScript.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧠 Cortex: The Agentic AI OS</h3>
+      <p><b>The Problem:</b> AI models hallucinate and ignore architectural constraints.</p>
+      <p><b>The Solution:</b> A 3D WebGL knowledge engine that enforces software invariants using a 7-agent governance suite.</p>
+      <p>🚀 <a href="https://cortex-gamma-ten.vercel.app/">Live Demo</a> | 💻 <a href="YOUR_CORTEX_REPO">Source Code</a></p>
+      <img src="YOUR_CORTEX_SCREENSHOT_LINK" width="100%" alt="Cortex Preview"/>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🛒 Agrivet Retail System</h3>
+      <p><b>The Problem:</b> Local retail stores struggle with inventory drift and manual tracking.</p>
+      <p><b>The Solution:</b> An offline-first inventory system with atomic ACID transactions, FEFO expiration monitoring, and strict RBAC.</p>
+      <p>🚀 <a href="YOUR_AGRIVET_LINK">Live Demo</a> | 💻 <a href="YOUR_AGRIVET_REPO">Source Code</a></p>
+      <img src="YOUR_AGRIVET_SCREENSHOT_LINK" width="100%" alt="Agrivet Preview"/>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3>🎨 CITEMAS Portal</h3>
+      <p><b>The Problem:</b> The CITE & Multimedia Arts community needed a centralized digital hub to showcase student talent and manage events.</p>
+      <p><b>The Solution:</b> A comprehensive, highly visual portal for student project collaboration, event registrations, talent directories, and dynamic digital portfolio showcases.</p>
+      <p>💻 <a href="YOUR_CITEMAS_REPO">Source Code</a></p>
+      <img src="YOUR_CITEMAS_SCREENSHOT_LINK" width="100%" alt="CITEMAS Preview"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ### 🛠️ My Tech Stack
 
-**Frontend:** React, Next.js, TypeScript, Tailwind CSS, Framer Motion, Three.js
-**Backend & Data:** Node.js, PostgreSQL, Supabase, MongoDB, Prisma
-**AI & Tooling:** Google Gemini, LangChain (custom), WebContainers, Git, Vercel
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,framer,threejs,nodejs,mongodb,postgres,supabase,gemini,vercel,git" alt="My Skills" />
+</div>
 
 ---
 
-### 📫 Connect with Me
+### 📈 GitHub Stats
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](YOUR_PORTFOLIO_LINK_HERE)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/neil-mar-de-asis-972553377/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:neilasis43@gmail.com)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dropoflife13&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050505&title_color=00FFFF&text_color=ffffff&icon_color=00FFFF" alt="Neil's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dropoflife13&theme=tokyonight&hide_border=true&background=050505&ring=00FFFF&fire=00FFFF&currStreakLabel=00FFFF" alt="Neil's GitHub Streak" />
+</div>
