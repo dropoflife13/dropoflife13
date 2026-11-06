@@ -1,10 +1,11 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Developer;Systems+Architect;Agentic+AI+%26+3D+WebGL&font=Fira+Code&center=true&width=480&height=45&color=00FFFF&vCenter=true&size=20" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,50:00C6FF,100:00F5A0&height=180&section=header&text=NEIL%20MAR%20DE%20ASIS&fontSize=34&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" alt="Colorful profile banner" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Developer;Systems+Architect;Agentic+AI+%26+3D+WebGL&font=Fira+Code&center=true&width=520&height=45&color=00F5A0&vCenter=true&size=20" alt="Typing SVG" />
   
   <p align="center">
-    <a href="https://github.com/dropoflife13/Portfolio"><img src="https://img.shields.io/badge/Portfolio-050505?style=for-the-badge&logo=vercel&logoColor=00FFFF&labelColor=050505" alt="Portfolio"/></a>
-    <a href="https://www.linkedin.com/in/neil-mar-de-asis-972553377/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-    <a href="mailto:neilasis43@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+    <a href="https://github.com/dropoflife13/Portfolio"><img src="https://img.shields.io/badge/Portfolio-7F00FF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=5B21B6" alt="Portfolio"/></a>
+    <a href="https://www.linkedin.com/in/neil-mar-de-asis-972553377/"><img src="https://img.shields.io/badge/LinkedIn-00C6FF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0284C7" alt="LinkedIn"/></a>
+    <a href="mailto:neilasis43@gmail.com"><img src="https://img.shields.io/badge/Email-F472B6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=DB2777" alt="Email"/></a>
   </p>
 </div>
 
@@ -56,10 +57,16 @@ When I'm not writing code, I'm studying system design, hacking on side projects,
   <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,framer,threejs,nodejs,mongodb,postgres,supabase,gemini,vercel,git" alt="My Skills" />
 </div>
 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=BUILDING+%E2%9C%A6+DESIGNING+%E2%9C%A6+SHIPPING+%E2%9C%A6+REPEATING;NEXT.JS+%E2%80%A2+REACT+%E2%80%A2+TYPESCRIPT+%E2%80%A2+AI+%E2%80%A2+WEBGL&font=Fira+Code&center=true&width=760&height=42&color=7F00FF&background=F5F3FF&vCenter=true&size=16&pause=900" alt="Animated tech marquee" />
+</div>
+
 ---
 
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dropoflife13&theme=tokyonight&hide_border=true&background=050505&ring=00FFFF&fire=00FFFF&currStreakLabel=00FFFF" alt="Neil's GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dropoflife13&theme=radical&hide_border=true&background=0F172A&ring=00F5A0&fire=F472B6&currStreakLabel=00C6FF&sideNums=FFFFFF&currStreakNum=FFFFFF" alt="Neil's GitHub Streak" />
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5A0,50:00C6FF,100:7F00FF&height=100&section=footer" width="100%" alt="Colorful footer banner" />
