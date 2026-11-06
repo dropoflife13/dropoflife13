@@ -61,6 +61,5 @@ When I'm not writing code, I'm studying system design, hacking on side projects,
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dropoflife13&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050505&title_color=00FFFF&text_color=ffffff&icon_color=00FFFF" alt="Neil's GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dropoflife13&theme=tokyonight&hide_border=true&background=050505&ring=00FFFF&fire=00FFFF&currStreakLabel=00FFFF" alt="Neil's GitHub Streak" />
 </div>
