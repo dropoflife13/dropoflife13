@@ -54,11 +54,11 @@ When I'm not writing code, I'm studying system design, hacking on side projects,
 ### 🛠️ My Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,framer,threejs,nodejs,mongodb,postgres,supabase,gemini,vercel,git" alt="My Skills" />
+  <img src="https://raw.githubusercontent.com/dropoflife13/dropoflife13/main/tech-marquee.svg" width="100%" alt="Animated technology icon marquee" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=BUILDING+%E2%9C%A6+DESIGNING+%E2%9C%A6+SHIPPING+%E2%9C%A6+REPEATING;NEXT.JS+%E2%80%A2+REACT+%E2%80%A2+TYPESCRIPT+%E2%80%A2+AI+%E2%80%A2+WEBGL&font=Fira+Code&center=true&width=760&height=42&color=7F00FF&background=F5F3FF&vCenter=true&size=16&pause=900" alt="Animated tech marquee" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=BUILDING+%E2%9C%A6+DESIGNING+%E2%9C%A6+SHIPPING+%E2%9C%A6+REPEATING;NEXT.JS+%E2%80%A2+REACT+%E2%80%A2+TYPESCRIPT+%E2%80%A2+AI+%E2%80%A2+WEBGL&font=Fira+Code&center=true&width=760&height=42&color=00F5A0&background=00000000&vCenter=true&size=16&pause=900" alt="Animated tech marquee" />
 </div>
 
 ---
